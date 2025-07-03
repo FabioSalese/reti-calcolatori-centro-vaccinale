@@ -19,11 +19,6 @@ Simula un sistema di comunicazione client-server per la gestione dei centri vacc
 - Comunicazione tra client e server tramite socket.
 - Differenziazione logica tra server vaccinale e server generale.
 - Gestione delle richieste di vaccinazione da più client.
-
-## 📸 Esempi (Diagrammi)
-
-![Diagramma Sequenza](Diagrammi/diagrammaSequenze_Client_CentroVaccinale_ServerV.jpg)
-
 ---
 
 **Autori:** Fabio Salese - Renzo Cerqua
